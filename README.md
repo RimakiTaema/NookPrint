@@ -1,5 +1,6 @@
-# Nook Theme
-NookTheme is a free and open source [Pterodactyl theme](https://pterodactyl.io) designed to be simple, clean, and modern.
+# NookPrint
+NookPrint is a free and open source Modified Version Of Nooktheme for Blueprint [Pterodactyl Plugin](https://blueprint.zip)
+[Pterodactyl theme](https://pterodactyl.io) designed to be simple, clean, and modern.
 
 ![Image](https://i.imgur.com/AFjHGBr.png)
 
